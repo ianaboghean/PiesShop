@@ -1,0 +1,78 @@
+[
+    {
+        "image": "cherrypiesmall.jpg",
+        "title": "Cherry pie",
+        "text": "A summer classic!",
+        "href": "applepie.html"
+    },
+
+    {
+        "image": "applepiesmall.jpg",
+        "title": "Apple pie",
+        "text": "Our famous apple pies!",
+        "href": "applepie.html"
+    },
+
+    {
+        "image": "blueberrycheesecakesmall.jpg",
+        "title": "Blueberry cheese cake",
+        "text": "You'll love it!",
+        "href": "applepie.html" 
+    },
+
+    {
+        "image": "cheesecakesmall.jpg",
+        "title": "Cheese cake",
+        "text": "Plain cheese cake. Plain pleasure.",
+        "href": "applepie.html" 
+    },
+
+    {
+        "image": "christmasapplepiesmall.jpg",
+        "title": "Christmas apple pie",
+        "text": "Happy holidays with this pie!",
+        "href": "applepie.html" 
+    },
+
+    {
+        "image": "cranberrypiesmall.jpg",
+        "title": "Cranberry pie",
+        "text": "A Christmas favorite",
+        "href": "applepie.html" 
+    },
+
+    {
+        "image": "peachpiesmall.jpg",
+        "title": "Peach pie",
+        "text": "Sweet as peach",
+        "href": "applepie.html"
+    },
+
+    {
+        "image": "pumpkinpiesmall.jpg",
+        "title": "Pumpkin pie",
+        "text": "Our Halloween favorite",
+        "href": "applepie.html"
+    },
+
+    {
+        "image": "rhubarbpiesmall.jpg",
+        "title": "Rhubarb pie",
+        "text": "My God, so sweet!",
+        "href": "applepie.html"
+    },
+
+    {
+        "image": "strawberrycheesecakesmall.jpg",
+        "title": "Strawberry cheese cake",
+        "text": "You'll love it!",
+        "href": "applepie.html"
+    },
+
+    {
+        "image": "strawberrypiesmall.jpg",
+        "title": "Strawberry pie",
+        "text": "Our delicious strawberry pie!",
+        "href": "applepie.html"
+    }
+]
